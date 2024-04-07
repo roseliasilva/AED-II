@@ -1,15 +1,8 @@
-
-<center><img width="800" src="images/ct.jpeg"></center>
-
-# Federal University of Rio Grande do Norte
-## Technology Center
-### Department of Computer Engineering and Automation 
-#### Algorithms and Data Structure II
+# Algorithms and Data Structure II
 
 This is the repository for the Algorithms and Data Structures II course, offered by the Department of Computer Engineering and Automation ([DCA](https://www.dca.ufrn.br)) of the Technology Center ([CT](https://www.ct.ufrn.br/)) at the Federal University of Rio Grande do Norte ([UFRN](https://www.ufrn.br)).
 
 The DCA aims to train professionals capable of designing and developing computer systems for industrial automation, embedded systems, software systems, distributed systems, computer networks, and information systems. The CT offers undergraduate and graduate courses in Engineering. This course is part of the curriculum of the Computer Engineering program at DCA/UFRN.
-
 
 #### References
 
