@@ -13,6 +13,11 @@ A rede foi gerada a partir das três SEEDs mencionadas, limitando-se a um nível
 Uma figura foi gerada utilizando o Gephi com um layout que destaca as diferentes comunidades na rede. As cores dos vértices representam as comunidades identificadas, e a visualização facilita a percepção dessas diferenças.
 Foram geras as seguintes figuras:
 
+![Degree Centraliy](./images/degree_centraliy.png)
+![Closeness Centraliy](./images/closeness_centraliy.png)
+![Betweenness Centraliy](./images/betweenness_centraliy.png)
+![Eigenvector Centraliy](./images/eigenvector_centraliy.png)
+
 ### Requisito 03: Visualização com In-Degree
 Outra figura foi gerada no Gephi, destacando o in-Degree dos vértices. Essa visualização mostra como certos nós da rede têm mais conexões direcionadas a eles, evidenciando sua importância na estrutura da rede.
 
@@ -43,11 +48,10 @@ A rede final foi produzida de forma análoga ao explicado durante o curso, com a
    ```bash
    pip install -r requirements.txt
    ```
-3. Execute o notebook principal (`main_notebook.ipynb`) para gerar a rede e os arquivos `.gexf` necessários para a visualização no Gephi.
-4. Abra os arquivos `.gexf` no Gephi e siga as instruções no notebook para aplicar os layouts e filtros necessários para cada visualização.
+3. Execute os notebook principal (`code.ipynb`) para gerar a rede e os arquivos necessários para a visualização no Gephi.
 
 ## Vídeo de Apresentação
 Para uma explicação detalhada dos resultados e como o projeto foi desenvolvido, assista ao vídeo de apresentação [aqui](https://loom.com/your-video-link).
 
 ## Autor(a)
-[Rosélia Nascimento da Silva]
+Rosélia Nascimento da Silva
