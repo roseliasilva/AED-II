@@ -11,15 +11,25 @@ A rede foi gerada a partir das três SEEDs mencionadas, limitando-se a um nível
 
 ### Requisito 02: Visualização Básica no Gephi
 Uma figura foi gerada utilizando o Gephi com um layout que destaca as diferentes comunidades na rede. As cores dos vértices representam as comunidades identificadas, e a visualização facilita a percepção dessas diferenças.
-Foram geras as seguintes figuras:
+Foram geradas as seguintes figuras:
 
+##### Degree Centraliy
 ![Degree Centraliy](./images/degree_centraliy.png)
+
+##### Closeness Centraliy
 ![Closeness Centraliy](./images/closeness_centraliy.png)
+
+##### Betweenness Centraliy
 ![Betweenness Centraliy](./images/betweenness_centraliy.png)
+
+#### Eigenvector Centraliy
 ![Eigenvector Centraliy](./images/eigenvector_centraliy.png)
 
 ### Requisito 03: Visualização com In-Degree
 Outra figura foi gerada no Gephi, destacando o in-Degree dos vértices. Essa visualização mostra como certos nós da rede têm mais conexões direcionadas a eles, evidenciando sua importância na estrutura da rede.
+
+![Histograma](./images/histograma.png)
+![Histograma](./images/histograma_cdf-pdf.png)
 
 ### Requisito 04: Análise de k-core e k-shell
 Uma análise foi feita utilizando o k-core e k-shell da rede. O layout dessa visualização foi livremente escolhido para destacar as diferentes camadas dentro da rede. Os vértices foram redimensionados de acordo com a métrica de in-degree.
