@@ -22,7 +22,7 @@ Foram geradas as seguintes figuras:
 ##### Betweenness Centraliy
 ![Betweenness Centraliy](./images/betweenness_centraliy.png)
 
-#### Eigenvector Centraliy
+##### Eigenvector Centraliy
 ![Eigenvector Centraliy](./images/eigenvector_centraliy.png)
 
 ### Requisito 03: Visualização com In-Degree
@@ -33,6 +33,12 @@ Outra figura foi gerada no Gephi, destacando o in-Degree dos vértices. Essa vis
 
 ### Requisito 04: Análise de k-core e k-shell
 Uma análise foi feita utilizando o k-core e k-shell da rede. O layout dessa visualização foi livremente escolhido para destacar as diferentes camadas dentro da rede. Os vértices foram redimensionados de acordo com a métrica de in-degree.
+
+##### K-core
+![K-core](./images/k-core.png)
+
+##### K-shell
+![K-shell](./images/k-shell.png)
 
 ### Requisito 05: Rede Final com Comunidades e In-Degree
 A rede final foi produzida de forma análoga ao explicado durante o curso, com as cores dos vértices relacionadas às comunidades e o tamanho dos vértices proporcional ao in-degree. Essa visualização final oferece uma visão completa da estrutura e dinâmica da rede.
@@ -61,7 +67,7 @@ A rede final foi produzida de forma análoga ao explicado durante o curso, com a
 3. Execute os notebook principal (`code.ipynb`) para gerar a rede e os arquivos necessários para a visualização no Gephi.
 
 ## Vídeo de Apresentação
-Para uma explicação detalhada dos resultados e como o projeto foi desenvolvido, assista ao vídeo de apresentação [aqui](https://loom.com/your-video-link).
+Para uma explicação detalhada dos resultados e como o projeto foi desenvolvido, assista ao vídeo de apresentação [aqui](https://youtu.be/eQB-TsRqD6c).
 
 ## Autor(a)
 Rosélia Nascimento da Silva
